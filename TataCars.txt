@@ -1,0 +1,24 @@
+Car ID: 1
+Make: TATA
+Model: Sedan
+Year of Manufacture: 2023
+Color: Black
+Price: $25000.0
+Registration Number: DL0001
+
+Car ID: 2
+Make: TATA
+Model: Sedan
+Year of Manufacture: 2023
+Color: Black
+Price: $25000.0
+Registration Number: DL0001
+
+Car ID: 5
+Make: TATA
+Model: Altroz
+Year of Manufacture: 2021
+Color: Orange
+Price: $15000.0
+Registration Number: DL1101
+

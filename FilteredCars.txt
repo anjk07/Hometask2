@@ -1,0 +1,16 @@
+Car ID: 7
+Make: TATA
+Model: SUV
+Year of Manufacture: 2020
+Color: Olive
+Price: $50000.0
+Registration Number: DL0007
+
+Car ID: 9
+Make: BMW
+Model: Sedan
+Year of Manufacture: 2020
+Color: Orange
+Price: $200001.0
+Registration Number: DL0007
+

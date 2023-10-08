@@ -1,0 +1,8 @@
+Car ID: 4
+Make: Toyota
+Model: Sedan
+Year of Manufacture: 2015
+Color: Red
+Price: $20000.0
+Registration Number: DL0030
+
